@@ -14,7 +14,7 @@ Utilizing web scraping techniques to extract data from various websites, creatin
     - [K-nearest-neighbors](#k-nearest-neighbors)
     - [Random forest](#random-forest)
     - [Logistic Regression](#Logistic-Regression)
-  - [Final Results – Group Stage](#final-results--group-stage)
+  - [Final Results](#final-results--group-stage)
 
 
 

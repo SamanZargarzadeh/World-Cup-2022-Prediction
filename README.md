@@ -2,6 +2,21 @@
 Utilizing web scraping techniques to extract data from various websites, creating a soccer dataset for national teams, and implementing machine learning algorithms, in both Python and Weka, to predict World Cup 2022 results with the help of feature engineering.
 
 
+# Table of Contents
+- [World Cup 2022 Prediction](#world-cup-2022-prediction)
+  - [Introduction](#introduction)
+    - [The 2022 FIFA World Cup](#the-2022-fifa-world-cup)
+    - [Why Are We Proposing This Topic?](#why-are-we-proposing-this-topic)
+  - [Data Overview](#data-overview)
+  - [Feature Engineering](#feature-engineering)
+  - [Exploratory Analysis](#exploratory-analysis)
+  - [Machine Learning](#machine-learning)
+    - [K-nearest-neighbors](#k-nearest-neighbors)
+    - [Random forest](#random-forest)
+    - [Logistic Regression](#Logistic-Regression)
+  - [Final Results – Group Stage](#final-results--group-stage)
+
+
 
 ## Introduction
 Every four years, the sporting world comes together to watch one of the biggest tournaments in the world. Featuring billions of fans, hundreds of players, and 32 nations, the world cup is undoubtedly a spectacle of enormous proportions, perhaps the biggest the world sees. With the pride of fans, the legacies of players, and the reputations of nations hanging in the balance, the legend that is the world cup is impactful in more ways than just status. Over the four-week tournament, FIFA sees an inflow of billions in advertising revenue, millions of clicks in web traffic, and countless views in-stadium and on television. The scale of the world cup is simply unmatched. 

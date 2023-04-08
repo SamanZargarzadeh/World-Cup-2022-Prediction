@@ -3,7 +3,6 @@ Utilizing web scraping techniques to extract data from various websites, creatin
 
 
 # Table of Contents
-- [World Cup 2022 Prediction](#world-cup-2022-prediction)
   - [Introduction](#introduction)
     - [The 2022 FIFA World Cup](#the-2022-fifa-world-cup)
     - [Why Are We Proposing This Topic?](#why-are-we-proposing-this-topic)
